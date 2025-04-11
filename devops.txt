@@ -2,4 +2,3 @@ Devops is combination of devlopment and operations!
 updating things!
 learning git clone form the class 
 Learning git clone from this class and getting hands on practise!
-D3
