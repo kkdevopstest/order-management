@@ -1,6 +1,4 @@
 I am from hyd
-<<<<<<< HEAD
 I like sunrises hyd 
-=======
-I like sun rises hyderabad! 
->>>>>>> prod
+I like sun rises hyderabad!
+I love hyd food
