@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Devops is combination of devlopment and operations!
-=======
 updating things 
->>>>>>> f1
+
